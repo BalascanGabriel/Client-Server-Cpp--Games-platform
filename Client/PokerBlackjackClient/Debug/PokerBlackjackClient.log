@@ -1,0 +1,3 @@
+﻿  PokerBlackjackClient.cpp
+C:\Users\Acer\source\repos\PokerBlackjackClient\PokerBlackjackClient\PokerBlackjackClient.cpp(65,27): warning C4018: '<': signed/unsigned mismatch
+  PokerBlackjackClient.vcxproj -> C:\Users\Acer\source\repos\PokerBlackjackClient\Debug\PokerBlackjackClient.exe
